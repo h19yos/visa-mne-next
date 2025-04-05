@@ -1,9 +1,9 @@
 # *
 User-agent: *
-Disallow: /
+Allow: /
 
 # Host
-Host: https://visavam.by
+Host: https://visavampro.by
 
 # Sitemaps
-Sitemap: https://visavam.by/sitemap.xml
+Sitemap: https://visavampro.by/sitemap.xml
